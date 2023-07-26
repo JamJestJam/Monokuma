@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "cd ./src/Page/ && npx run start",
+    "build": "cd ./src/Page/ && npx run build",
+    "in": "cd ./src/Page/ && npm install"
+  }
+}

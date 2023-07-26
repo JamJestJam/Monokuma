@@ -1,0 +1,3 @@
+struct Main{
+  char c;
+};
