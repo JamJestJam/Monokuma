@@ -1,3 +1,0 @@
-struct Main{
-  char c;
-};
